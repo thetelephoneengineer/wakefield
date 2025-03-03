@@ -1,11 +1,14 @@
 Hi there, I'm the telephone in the wakefield area
+
 I'm a telephone engineer based in Wakefield with a passion for connecting people and devices. My work focuses on the installation and maintenance of robust communication systems.
 
 What I Do
+
 Telephone Sockets: I install and configure telephone sockets to ensure clear, reliable communication.
 Data Sockets: Setting up data sockets for seamless high-speed connectivity is a key part of my work.
 WiFi Access Points: I design and deploy WiFi networks to deliver efficient wireless access for both homes and businesses.
 About Me
+
 With years of hands-on experience in the telecommunications field, I combine technical expertise with practical know-how to deliver top-quality service. Whether you're looking to upgrade your systems or troubleshoot connectivity issues, I’m here to help.
 
 Feel free to check out my projects or get in touch for any enquiries!
