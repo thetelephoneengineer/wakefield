@@ -1,6 +1,7 @@
 Hi there, I'm the telephone in the wakefield area
 
-I'm a telephone engineer based in Wakefield with a passion for connecting people and devices. My work focuses on the installation and maintenance of robust communication systems.
+I'm a telephone engineer based in Wakefield with a passion for connecting people and devices.
+My work focuses on the installation and maintenance of robust communication systems.
 
 What I Do
 
