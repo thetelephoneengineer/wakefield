@@ -12,4 +12,6 @@ WiFi Access Points: I design and deploy WiFi networks to deliver efficient wirel
 
 About Me
 
+I cover Castleford, Hemsworth, Horbury, Ossett, South Elmsall, South Kirkby
+
 With years of hands-on experience in the telecommunications field, I combine technical expertise with practical know-how to deliver top-quality service. Whether you're looking to upgrade your systems or troubleshoot connectivity issues, I’m here to help.
