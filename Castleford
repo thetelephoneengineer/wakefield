@@ -1,0 +1,11 @@
+<h1>Telephone Engineer Castleford</h1>
+# GitHub Markdown HTML Example
+
+This Markdown file demonstrates how HTML can be rendered directly within a GitHub Markdown file, as well as how to show the HTML code itself.
+
+## Rendered HTML
+
+<div style="border: 1px solid #ccc; padding: 10px; margin: 10px 0;">
+  <h2>Rendered HTML Example</h2>
+  <p>This HTML snippet is rendered directly within the Markdown file.</p>
+</div>
